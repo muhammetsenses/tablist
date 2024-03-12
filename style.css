@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    border: 1px solid rgb(209, 205, 205);
+}
+.tablist{
+    background-color: lightgrey;
+    padding: 1rem 0;
+    padding: 1rem;
+}
+#tab2-button{
+    margin: 0 1rem;
+}
+.tablist-content{
+    padding-left: 1.5rem  ;
+}
+
+button{
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 1rem;
+    color: black;
+    border: 0;
+    cursor: pointer;
+}
+
+.d-none{
+    display: none;
+}
+.button-background{
+    background-color: rgb(65, 63, 63);
+    color: white;
+}
